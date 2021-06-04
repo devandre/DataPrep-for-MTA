@@ -1,0 +1,719 @@
+path,total_conversions,total_null,total_conversion_value
+Affiliates,0.0,969.0,0
+Affiliates > Direct,0.0,109.0,0
+Affiliates > Direct > Direct,0.0,26.0,0
+Affiliates > Direct > Direct > Direct,0.0,8.0,0
+Affiliates > Direct > Direct > Direct > Direct,0.0,2.0,0
+Affiliates > Direct > Direct > Direct > Direct > Direct,0.0,1.0,0
+Affiliates > Direct > Direct > Direct > Direct > Direct > Direct,0.0,1.0,0
+Affiliates > Direct > Direct > Referral,0.0,1.0,0
+Affiliates > Direct > Referral,0.0,7.0,0
+Affiliates > Direct > Referral > Direct,0.0,2.0,0
+Affiliates > Direct > Referral > Direct > Direct,0.0,2.0,0
+Affiliates > Direct > Referral > Direct > Direct > Direct,0.0,2.0,0
+Affiliates > Direct > Referral > Direct > Direct > Direct > Direct,0.0,1.0,0
+Affiliates > Organic Search,0.0,2.0,0
+Affiliates > Organic Search > Affiliates,0.0,1.0,0
+Affiliates > Organic Search > Affiliates > Direct,0.0,1.0,0
+Affiliates > Paid Search,0.0,1.0,0
+Affiliates > Referral,0.0,32.0,0
+Affiliates > Referral > Affiliates,0.0,3.0,0
+Affiliates > Referral > Affiliates > Direct,0.0,3.0,0
+Affiliates > Referral > Affiliates > Direct > Direct,0.0,2.0,0
+Affiliates > Referral > Affiliates > Direct > Direct > Referral,0.0,1.0,0
+Affiliates > Referral > Affiliates > Direct > Referral,0.0,1.0,0
+Affiliates > Referral > Direct,0.0,12.0,0
+Affiliates > Referral > Direct > Direct,0.0,5.0,0
+Affiliates > Referral > Direct > Direct > Direct,0.0,3.0,0
+Affiliates > Referral > Direct > Direct > Direct > Direct,0.0,2.0,0
+Affiliates > Referral > Direct > Direct > Direct > Direct > Direct,0.0,1.0,0
+Affiliates > Referral > Direct > Direct > Direct > Organic Search,0.0,1.0,0
+Affiliates > Referral > Direct > Organic Search,0.0,1.0,0
+Affiliates > Referral > Direct > Organic Search > Referral,0.0,1.0,0
+Affiliates > Social,0.0,1.0,0
+Direct,314.0,14828.0,0
+Direct > Affiliates,0.0,26.0,0
+Direct > Affiliates > Direct,0.0,7.0,0
+Direct > Affiliates > Direct > Direct,0.0,1.0,0
+Direct > Affiliates > Direct > Direct > Referral,0.0,1.0,0
+Direct > Affiliates > Organic Search,0.0,1.0,0
+Direct > Affiliates > Referral,0.0,2.0,0
+Direct > Affiliates > Referral > Direct,0.0,1.0,0
+Direct > Affiliates > Referral > Direct > Direct,0.0,1.0,0
+Direct > Affiliates > Referral > Direct > Direct > Direct,0.0,1.0,0
+Direct > Affiliates > Referral > Direct > Direct > Direct > Direct,0.0,1.0,0
+Direct > Affiliates > Referral > Direct > Direct > Direct > Direct > Direct,0.0,1.0,0
+Direct > Affiliates > Referral > Direct > Direct > Direct > Direct > Direct > Direct,0.0,1.0,0
+Direct > Direct,101.0,2253.0,0
+Direct > Direct > Direct,50.0,758.0,0
+Direct > Direct > Direct > Direct,17.0,339.0,0
+Direct > Direct > Direct > Direct > Affiliates,0.0,1.0,0
+Direct > Direct > Direct > Direct > Affiliates > Direct,0.0,1.0,0
+Direct > Direct > Direct > Direct > Affiliates > Direct > Direct,0.0,1.0,0
+Direct > Direct > Direct > Direct > Affiliates > Direct > Direct > Direct,0.0,1.0,0
+Direct > Direct > Direct > Direct > Affiliates > Direct > Direct > Direct > Organic Search,0.0,1.0,0
+Direct > Direct > Direct > Direct > Affiliates > Direct > Direct > Direct > Organic Search > Direct,0.0,1.0,0
+Direct > Direct > Direct > Direct > Affiliates > Direct > Direct > Direct > Organic Search > Direct > Direct,0.0,1.0,0
+Direct > Direct > Direct > Direct > Affiliates > Direct > Direct > Direct > Organic Search > Direct > Direct > Direct,0.0,1.0,0
+Direct > Direct > Direct > Direct > Affiliates > Direct > Direct > Direct > Organic Search > Direct > Direct > Direct > Display,0.0,1.0,0
+Direct > Direct > Direct > Direct > Affiliates > Direct > Direct > Direct > Organic Search > Direct > Direct > Direct > Display > Direct,0.0,1.0,0
+Direct > Direct > Direct > Direct > Affiliates > Direct > Direct > Direct > Organic Search > Direct > Direct > Direct > Display > Direct > Direct,0.0,1.0,0
+Direct > Direct > Direct > Direct > Affiliates > Direct > Direct > Direct > Organic Search > Direct > Direct > Direct > Display > Direct > Direct > Direct,0.0,1.0,0
+Direct > Direct > Direct > Direct > Affiliates > Direct > Direct > Direct > Organic Search > Direct > Direct > Direct > Display > Direct > Direct > Direct > Direct,0.0,1.0,0
+Direct > Direct > Direct > Direct > Affiliates > Direct > Direct > Direct > Organic Search > Direct > Direct > Direct > Display > Direct > Direct > Direct > Direct > Direct,0.0,1.0,0
+Direct > Direct > Direct > Direct > Direct,8.0,184.0,0
+Direct > Direct > Direct > Direct > Direct > Direct,3.0,115.0,0
+Direct > Direct > Direct > Direct > Direct > Direct > Direct,4.0,86.0,0
+Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,7.0,58.0,0
+Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,1.0,40.0,0
+Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,2.0,29.0,0
+Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,22.0,0
+Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,17.0,0
+Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,1.0,11.0,0
+Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,10.0,0
+Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,1.0,8.0,0
+Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,7.0,0
+Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,6.0,0
+Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,5.0,0
+Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,5.0,0
+Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,5.0,0
+Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,5.0,0
+Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,5.0,0
+Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,4.0,0
+Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,4.0,0
+Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,1.0,3.0,0
+Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,3.0,0
+Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,3.0,0
+Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,3.0,0
+Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,3.0,0
+Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,3.0,0
+Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,3.0,0
+Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,3.0,0
+Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,3.0,0
+Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,3.0,0
+Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,3.0,0
+Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,3.0,0
+Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,1.0,0
+Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,1.0,0
+Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,1.0,0
+Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,1.0,0
+Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,1.0,0
+Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,1.0,0
+Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,1.0,0
+Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Organic Search,0.0,1.0,0
+Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Organic Search > Direct,1.0,0.0,0
+Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Organic Search > Direct > Direct,0.0,1.0,0
+Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Organic Search > Direct > Direct > Direct,0.0,1.0,0
+Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Organic Search > Direct > Direct > Direct > Direct,0.0,1.0,0
+Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Organic Search > Direct > Direct > Direct > Direct > Direct,0.0,1.0,0
+Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Organic Search > Direct > Direct > Direct > Direct > Direct > Direct,0.0,1.0,0
+Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Organic Search > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,1.0,0
+Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Paid Search,0.0,1.0,0
+Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Paid Search > Direct,0.0,1.0,0
+Direct > Direct > Direct > Direct > Direct > Direct > Direct > Organic Search,0.0,1.0,0
+Direct > Direct > Direct > Direct > Direct > Direct > Organic Search,0.0,1.0,0
+Direct > Direct > Direct > Direct > Direct > Direct > Paid Search,0.0,1.0,0
+Direct > Direct > Direct > Direct > Direct > Direct > Paid Search > Direct,0.0,1.0,0
+Direct > Direct > Direct > Direct > Direct > Direct > Referral,0.0,1.0,0
+Direct > Direct > Direct > Direct > Direct > Direct > Referral > Direct,0.0,1.0,0
+Direct > Direct > Direct > Direct > Direct > Organic Search,0.0,2.0,0
+Direct > Direct > Direct > Direct > Direct > Organic Search > Referral,0.0,1.0,0
+Direct > Direct > Direct > Direct > Direct > Organic Search > Referral > Direct,0.0,1.0,0
+Direct > Direct > Direct > Direct > Direct > Referral,0.0,2.0,0
+Direct > Direct > Direct > Direct > Direct > Referral > Direct,0.0,1.0,0
+Direct > Direct > Direct > Direct > Direct > Referral > Direct > Direct,0.0,1.0,0
+Direct > Direct > Direct > Direct > Direct > Referral > Direct > Direct > Direct,0.0,1.0,0
+Direct > Direct > Direct > Direct > Direct > Referral > Direct > Direct > Direct > Direct,0.0,1.0,0
+Direct > Direct > Direct > Direct > Direct > Referral > Direct > Direct > Direct > Direct > Direct,0.0,1.0,0
+Direct > Direct > Direct > Direct > Direct > Referral > Direct > Direct > Direct > Direct > Direct > Direct,0.0,1.0,0
+Direct > Direct > Direct > Direct > Direct > Referral > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,1.0,0
+Direct > Direct > Direct > Direct > Direct > Referral > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,1.0,0
+Direct > Direct > Direct > Direct > Direct > Referral > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,1.0,0
+Direct > Direct > Direct > Direct > Direct > Referral > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,1.0,0
+Direct > Direct > Direct > Direct > Display,1.0,1.0,0
+Direct > Direct > Direct > Direct > Display > Direct,0.0,1.0,0
+Direct > Direct > Direct > Direct > Organic Search,1.0,3.0,0
+Direct > Direct > Direct > Direct > Organic Search > Direct,0.0,2.0,0
+Direct > Direct > Direct > Direct > Organic Search > Direct > Direct,4.0,0.0,0
+Direct > Direct > Direct > Direct > Organic Search > Direct > Direct > Direct,0.0,1.0,0
+Direct > Direct > Direct > Direct > Organic Search > Direct > Direct > Direct > Direct,0.0,1.0,0
+Direct > Direct > Direct > Direct > Organic Search > Direct > Direct > Direct > Direct > Direct,0.0,1.0,0
+Direct > Direct > Direct > Direct > Organic Search > Direct > Direct > Direct > Direct > Direct > Direct,0.0,1.0,0
+Direct > Direct > Direct > Direct > Organic Search > Direct > Direct > Direct > Direct > Direct > Direct > Direct,1.0,0.0,0
+Direct > Direct > Direct > Direct > Organic Search > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,1.0,0
+Direct > Direct > Direct > Direct > Organic Search > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,1.0,0
+Direct > Direct > Direct > Direct > Referral,0.0,2.0,0
+Direct > Direct > Direct > Display,0.0,1.0,0
+Direct > Direct > Direct > Display > Display,0.0,1.0,0
+Direct > Direct > Direct > Display > Display > Direct,0.0,1.0,0
+Direct > Direct > Direct > Display > Display > Direct > Direct,0.0,1.0,0
+Direct > Direct > Direct > Display > Display > Direct > Direct > Direct,0.0,1.0,0
+Direct > Direct > Direct > Display > Display > Direct > Direct > Direct > Referral,0.0,1.0,0
+Direct > Direct > Direct > Display > Display > Direct > Direct > Direct > Referral > Referral,0.0,1.0,0
+Direct > Direct > Direct > Display > Display > Direct > Direct > Direct > Referral > Referral > Direct,0.0,1.0,0
+Direct > Direct > Direct > Display > Display > Direct > Direct > Direct > Referral > Referral > Direct > Direct,0.0,1.0,0
+Direct > Direct > Direct > Display > Display > Direct > Direct > Direct > Referral > Referral > Direct > Direct > Display,0.0,1.0,0
+Direct > Direct > Direct > Display > Display > Direct > Direct > Direct > Referral > Referral > Direct > Direct > Display > Direct,0.0,1.0,0
+Direct > Direct > Direct > Display > Display > Direct > Direct > Direct > Referral > Referral > Direct > Direct > Display > Direct > Direct,0.0,1.0,0
+Direct > Direct > Direct > Organic Search,0.0,8.0,0
+Direct > Direct > Direct > Organic Search > Direct,0.0,2.0,0
+Direct > Direct > Direct > Organic Search > Direct > Direct,0.0,1.0,0
+Direct > Direct > Direct > Organic Search > Direct > Direct > Direct,0.0,1.0,0
+Direct > Direct > Direct > Organic Search > Direct > Direct > Direct > Direct,0.0,1.0,0
+Direct > Direct > Direct > Organic Search > Direct > Direct > Direct > Direct > Direct,0.0,1.0,0
+Direct > Direct > Direct > Organic Search > Organic Search,0.0,2.0,0
+Direct > Direct > Direct > Organic Search > Organic Search > Direct,0.0,1.0,0
+Direct > Direct > Direct > Organic Search > Referral,0.0,2.0,0
+Direct > Direct > Direct > Organic Search > Referral > Direct,0.0,2.0,0
+Direct > Direct > Direct > Organic Search > Referral > Direct > Direct,0.0,1.0,0
+Direct > Direct > Direct > Organic Search > Referral > Direct > Direct > Direct,0.0,1.0,0
+Direct > Direct > Direct > Organic Search > Referral > Direct > Direct > Direct > Direct,0.0,1.0,0
+Direct > Direct > Direct > Organic Search > Referral > Direct > Referral,0.0,1.0,0
+Direct > Direct > Direct > Organic Search > Referral > Direct > Referral > Direct,0.0,1.0,0
+Direct > Direct > Direct > Organic Search > Referral > Direct > Referral > Direct > Direct,0.0,1.0,0
+Direct > Direct > Direct > Organic Search > Referral > Direct > Referral > Direct > Direct > Direct,0.0,1.0,0
+Direct > Direct > Direct > Organic Search > Referral > Direct > Referral > Direct > Direct > Direct > Direct,0.0,1.0,0
+Direct > Direct > Direct > Organic Search > Referral > Direct > Referral > Direct > Direct > Direct > Direct > Direct,0.0,1.0,0
+Direct > Direct > Direct > Paid Search,0.0,1.0,0
+Direct > Direct > Direct > Referral,0.0,11.0,0
+Direct > Direct > Direct > Referral > Direct,0.0,5.0,0
+Direct > Direct > Direct > Referral > Direct > Direct,0.0,2.0,0
+Direct > Direct > Direct > Referral > Direct > Direct > Direct,0.0,1.0,0
+Direct > Direct > Direct > Referral > Direct > Direct > Direct > Direct,0.0,1.0,0
+Direct > Direct > Direct > Referral > Direct > Paid Search,0.0,1.0,0
+Direct > Direct > Direct > Referral > Organic Search,0.0,1.0,0
+Direct > Direct > Direct > Referral > Organic Search > Referral,0.0,1.0,0
+Direct > Direct > Direct > Referral > Organic Search > Referral > Organic Search,0.0,1.0,0
+Direct > Direct > Direct > Referral > Organic Search > Referral > Organic Search > Direct,0.0,1.0,0
+Direct > Direct > Direct > Referral > Organic Search > Referral > Organic Search > Direct > Direct,0.0,1.0,0
+Direct > Direct > Direct > Social,0.0,1.0,0
+Direct > Direct > Display,0.0,6.0,0
+Direct > Direct > Display > Direct,0.0,1.0,0
+Direct > Direct > Organic Search,0.0,24.0,0
+Direct > Direct > Organic Search > Direct,0.0,8.0,0
+Direct > Direct > Organic Search > Direct > Direct,0.0,2.0,0
+Direct > Direct > Organic Search > Direct > Direct > Direct,0.0,1.0,0
+Direct > Direct > Organic Search > Direct > Direct > Direct > Direct,0.0,1.0,0
+Direct > Direct > Organic Search > Direct > Display,0.0,1.0,0
+Direct > Direct > Organic Search > Direct > Display > Direct,0.0,1.0,0
+Direct > Direct > Organic Search > Organic Search,0.0,1.0,0
+Direct > Direct > Organic Search > Organic Search > Organic Search,0.0,1.0,0
+Direct > Direct > Organic Search > Organic Search > Organic Search > Organic Search,0.0,1.0,0
+Direct > Direct > Organic Search > Organic Search > Organic Search > Organic Search > Organic Search,0.0,1.0,0
+Direct > Direct > Paid Search,0.0,7.0,0
+Direct > Direct > Paid Search > Paid Search,0.0,2.0,0
+Direct > Direct > Referral,4.0,38.0,0
+Direct > Direct > Referral > Direct,0.0,8.0,0
+Direct > Direct > Referral > Direct > Direct,0.0,4.0,0
+Direct > Direct > Referral > Direct > Direct > Direct,0.0,1.0,0
+Direct > Direct > Referral > Direct > Direct > Direct > Direct,0.0,1.0,0
+Direct > Direct > Referral > Direct > Direct > Direct > Direct > Direct,0.0,1.0,0
+Direct > Direct > Referral > Organic Search,0.0,3.0,0
+Direct > Direct > Referral > Organic Search > Direct,0.0,2.0,0
+Direct > Direct > Referral > Organic Search > Direct > Direct,0.0,2.0,0
+Direct > Direct > Referral > Organic Search > Direct > Direct > Referral,0.0,1.0,0
+Direct > Direct > Referral > Referral,0.0,1.0,0
+Direct > Direct > Referral > Social,0.0,1.0,0
+Direct > Direct > Social,0.0,1.0,0
+Direct > Display,0.0,22.0,0
+Direct > Display > Direct,0.0,2.0,0
+Direct > Display > Direct > Direct,0.0,2.0,0
+Direct > Display > Direct > Direct > Direct,0.0,1.0,0
+Direct > Display > Direct > Direct > Direct > Direct,1.0,0.0,0
+Direct > Display > Direct > Direct > Direct > Direct > Direct,0.0,1.0,0
+Direct > Display > Direct > Direct > Direct > Direct > Direct > Direct,0.0,1.0,0
+Direct > Display > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,1.0,0
+Direct > Display > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,1.0,0
+Direct > Display > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,1.0,0
+Direct > Display > Display,0.0,2.0,0
+Direct > Display > Display > Display,0.0,1.0,0
+Direct > Display > Organic Search,1.0,0.0,0
+Direct > Display > Referral,0.0,1.0,0
+Direct > Organic Search,4.0,278.0,0
+Direct > Organic Search > Affiliates,0.0,2.0,0
+Direct > Organic Search > Direct,1.0,40.0,0
+Direct > Organic Search > Direct > Direct,0.0,12.0,0
+Direct > Organic Search > Direct > Direct > Direct,0.0,4.0,0
+Direct > Organic Search > Direct > Direct > Direct > Direct,0.0,2.0,0
+Direct > Organic Search > Direct > Direct > Direct > Direct > Direct,0.0,2.0,0
+Direct > Organic Search > Direct > Direct > Organic Search,0.0,2.0,0
+Direct > Organic Search > Direct > Direct > Organic Search > Organic Search,0.0,1.0,0
+Direct > Organic Search > Display,0.0,2.0,0
+Direct > Organic Search > Organic Search,0.0,7.0,0
+Direct > Organic Search > Paid Search,0.0,1.0,0
+Direct > Organic Search > Referral,0.0,8.0,0
+Direct > Organic Search > Referral > Direct,0.0,3.0,0
+Direct > Organic Search > Referral > Direct > Direct,0.0,2.0,0
+Direct > Organic Search > Referral > Direct > Direct > Direct,0.0,1.0,0
+Direct > Organic Search > Referral > Direct > Direct > Direct > Organic Search,0.0,1.0,0
+Direct > Organic Search > Referral > Direct > Direct > Direct > Organic Search > Direct,0.0,1.0,0
+Direct > Organic Search > Social,0.0,1.0,0
+Direct > Paid Search,0.0,34.0,0
+Direct > Paid Search > Direct,0.0,5.0,0
+Direct > Paid Search > Direct > Direct,1.0,1.0,0
+Direct > Paid Search > Direct > Direct > Direct,0.0,1.0,0
+Direct > Paid Search > Direct > Paid Search,0.0,1.0,0
+Direct > Paid Search > Organic Search,0.0,6.0,0
+Direct > Paid Search > Paid Search,0.0,1.0,0
+Direct > Paid Search > Referral,0.0,2.0,0
+Direct > Paid Search > Referral > Direct,0.0,1.0,0
+Direct > Paid Search > Referral > Direct > Direct,0.0,1.0,0
+Direct > Paid Search > Referral > Organic Search,0.0,1.0,0
+Direct > Paid Search > Social,0.0,1.0,0
+Direct > Referral,18.0,213.0,0
+Direct > Referral > Affiliates,0.0,2.0,0
+Direct > Referral > Direct,8.0,48.0,0
+Direct > Referral > Direct > Direct,0.0,13.0,0
+Direct > Referral > Direct > Direct > Direct,0.0,6.0,0
+Direct > Referral > Direct > Direct > Direct > Direct,0.0,4.0,0
+Direct > Referral > Direct > Direct > Direct > Direct > Direct,0.0,3.0,0
+Direct > Referral > Direct > Direct > Direct > Direct > Direct > Direct,0.0,1.0,0
+Direct > Referral > Direct > Direct > Direct > Direct > Direct > Direct > Direct,1.0,0.0,0
+Direct > Referral > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,1.0,0.0,0
+Direct > Referral > Direct > Organic Search,0.0,3.0,0
+Direct > Referral > Direct > Organic Search > Direct,0.0,2.0,0
+Direct > Referral > Direct > Organic Search > Direct > Direct,0.0,2.0,0
+Direct > Referral > Direct > Organic Search > Direct > Direct > Direct,0.0,1.0,0
+Direct > Referral > Direct > Organic Search > Referral,0.0,1.0,0
+Direct > Referral > Direct > Organic Search > Referral > Direct,0.0,1.0,0
+Direct > Referral > Direct > Social,0.0,1.0,0
+Direct > Referral > Direct > Social > Social,0.0,1.0,0
+Direct > Referral > Direct > Social > Social > Referral,0.0,1.0,0
+Direct > Referral > Direct > Social > Social > Referral > Social,0.0,1.0,0
+Direct > Referral > Organic Search,1.0,10.0,0
+Direct > Referral > Organic Search > Direct,0.0,1.0,0
+Direct > Referral > Organic Search > Direct > Referral,0.0,1.0,0
+Direct > Referral > Organic Search > Direct > Referral > Organic Search,0.0,1.0,0
+Direct > Referral > Organic Search > Direct > Referral > Organic Search > Direct,0.0,1.0,0
+Direct > Referral > Organic Search > Direct > Referral > Organic Search > Direct > Direct,0.0,1.0,0
+Direct > Referral > Organic Search > Organic Search,0.0,1.0,0
+Direct > Referral > Referral,0.0,4.0,0
+Direct > Referral > Referral > Direct,0.0,1.0,0
+Direct > Referral > Referral > Direct > Referral,1.0,0.0,0
+Direct > Referral > Referral > Direct > Referral > Direct,0.0,1.0,0
+Direct > Referral > Referral > Direct > Referral > Direct > Direct,0.0,1.0,0
+Direct > Referral > Social,0.0,1.0,0
+Direct > Social,4.0,42.0,0
+Direct > Social > Direct,0.0,6.0,0
+Direct > Social > Direct > Direct,1.0,2.0,0
+Direct > Social > Direct > Direct > Direct,0.0,1.0,0
+Direct > Social > Direct > Direct > Direct > Direct,0.0,1.0,0
+Direct > Social > Organic Search,0.0,1.0,0
+Direct > Social > Referral,0.0,2.0,0
+Direct > Social > Referral > Direct,0.0,1.0,0
+Direct > Social > Social,0.0,2.0,0
+Direct > Social > Social > Social,0.0,2.0,0
+Direct > Social > Social > Social > Referral,0.0,1.0,0
+Direct > Social > Social > Social > Referral > Referral,0.0,1.0,0
+Direct > Social > Social > Social > Referral > Referral > Direct,0.0,1.0,0
+Display,2.0,149.0,0
+Display > Direct,0.0,17.0,0
+Display > Direct > Direct,1.0,4.0,0
+Display > Direct > Direct > Direct,0.0,2.0,0
+Display > Direct > Direct > Direct > Direct,0.0,1.0,0
+Display > Direct > Direct > Organic Search,0.0,1.0,0
+Display > Direct > Display,0.0,1.0,0
+Display > Display,0.0,11.0,0
+Display > Display > Direct,0.0,3.0,0
+Display > Display > Direct > Direct,0.0,1.0,0
+Display > Display > Display,0.0,2.0,0
+Display > Display > Display > Display,0.0,1.0,0
+Display > Display > Display > Display > Display,0.0,1.0,0
+Display > Display > Organic Search,0.0,2.0,0
+Display > Organic Search,1.0,7.0,0
+Display > Organic Search > Referral,0.0,1.0,0
+Display > Paid Search,0.0,1.0,0
+Display > Paid Search > Organic Search,0.0,1.0,0
+Display > Referral,0.0,1.0,0
+Organic Search,138.0,24937.0,0
+Organic Search > Affiliates,0.0,29.0,0
+Organic Search > Affiliates > Direct,0.0,5.0,0
+Organic Search > Affiliates > Direct > Direct,0.0,1.0,0
+Organic Search > Affiliates > Direct > Organic Search,0.0,1.0,0
+Organic Search > Affiliates > Organic Search,0.0,2.0,0
+Organic Search > Affiliates > Organic Search > Direct,0.0,1.0,0
+Organic Search > Direct,41.0,2172.0,0
+Organic Search > Direct > Affiliates,0.0,5.0,0
+Organic Search > Direct > Affiliates > Direct,0.0,1.0,0
+Organic Search > Direct > Direct,16.0,521.0,0
+Organic Search > Direct > Direct > Direct,9.0,212.0,0
+Organic Search > Direct > Direct > Direct > Direct,2.0,106.0,0
+Organic Search > Direct > Direct > Direct > Direct > Direct,0.0,63.0,0
+Organic Search > Direct > Direct > Direct > Direct > Direct > Direct,1.0,40.0,0
+Organic Search > Direct > Direct > Direct > Direct > Direct > Direct > Direct,2.0,26.0,0
+Organic Search > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,23.0,0
+Organic Search > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,1.0,17.0,0
+Organic Search > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,1.0,12.0,0
+Organic Search > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,11.0,0
+Organic Search > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,11.0,0
+Organic Search > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,9.0,0
+Organic Search > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,8.0,0
+Organic Search > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,8.0,0
+Organic Search > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,7.0,0
+Organic Search > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,5.0,0
+Organic Search > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,4.0,0
+Organic Search > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,4.0,0
+Organic Search > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,4.0,0
+Organic Search > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,4.0,0
+Organic Search > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,4.0,0
+Organic Search > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,4.0,0
+Organic Search > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,1.0,3.0,0
+Organic Search > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,4.0,0
+Organic Search > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,2.0,0
+Organic Search > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,1.0,0
+Organic Search > Direct > Direct > Direct > Direct > Direct > Paid Search,0.0,1.0,0
+Organic Search > Direct > Direct > Direct > Direct > Referral,0.0,2.0,0
+Organic Search > Direct > Direct > Direct > Direct > Referral > Organic Search,0.0,1.0,0
+Organic Search > Direct > Direct > Direct > Direct > Social,0.0,1.0,0
+Organic Search > Direct > Direct > Direct > Direct > Social > Direct,0.0,1.0,0
+Organic Search > Direct > Direct > Direct > Direct > Social > Direct > Referral,0.0,1.0,0
+Organic Search > Direct > Direct > Direct > Direct > Social > Direct > Referral > Affiliates,0.0,1.0,0
+Organic Search > Direct > Direct > Direct > Paid Search,0.0,1.0,0
+Organic Search > Direct > Direct > Direct > Paid Search > Direct,0.0,1.0,0
+Organic Search > Direct > Direct > Direct > Referral,0.0,3.0,0
+Organic Search > Direct > Direct > Direct > Referral > Direct,0.0,1.0,0
+Organic Search > Direct > Direct > Display,0.0,2.0,0
+Organic Search > Direct > Direct > Display > Direct,0.0,1.0,0
+Organic Search > Direct > Direct > Display > Direct > Direct,0.0,1.0,0
+Organic Search > Direct > Direct > Paid Search,0.0,6.0,0
+Organic Search > Direct > Direct > Paid Search > Direct,0.0,4.0,0
+Organic Search > Direct > Direct > Paid Search > Direct > Direct,0.0,1.0,0
+Organic Search > Direct > Direct > Paid Search > Direct > Direct > Direct,0.0,1.0,0
+Organic Search > Direct > Direct > Paid Search > Organic Search,0.0,1.0,0
+Organic Search > Direct > Direct > Referral,0.0,5.0,0
+Organic Search > Direct > Direct > Referral > Direct,0.0,1.0,0
+Organic Search > Direct > Direct > Referral > Direct > Organic Search,0.0,1.0,0
+Organic Search > Direct > Direct > Social,0.0,2.0,0
+Organic Search > Direct > Display,0.0,6.0,0
+Organic Search > Direct > Display > Direct,0.0,1.0,0
+Organic Search > Direct > Display > Direct > Direct,0.0,1.0,0
+Organic Search > Direct > Display > Direct > Direct > Direct,0.0,1.0,0
+Organic Search > Direct > Organic Search,0.0,4.0,0
+Organic Search > Direct > Organic Search > Direct,0.0,1.0,0
+Organic Search > Direct > Organic Search > Organic Search,0.0,1.0,0
+Organic Search > Direct > Organic Search > Organic Search > Organic Search,0.0,1.0,0
+Organic Search > Direct > Organic Search > Organic Search > Organic Search > Organic Search,0.0,1.0,0
+Organic Search > Direct > Organic Search > Organic Search > Organic Search > Organic Search > Organic Search,0.0,1.0,0
+Organic Search > Direct > Paid Search,0.0,6.0,0
+Organic Search > Direct > Paid Search > Direct,1.0,1.0,0
+Organic Search > Direct > Paid Search > Organic Search,0.0,2.0,0
+Organic Search > Direct > Paid Search > Organic Search > Direct,0.0,1.0,0
+Organic Search > Direct > Referral,2.0,22.0,0
+Organic Search > Direct > Referral > Direct,1.0,4.0,0
+Organic Search > Direct > Referral > Direct > Direct,0.0,1.0,0
+Organic Search > Direct > Referral > Direct > Direct > Direct,0.0,1.0,0
+Organic Search > Direct > Referral > Organic Search,0.0,6.0,0
+Organic Search > Direct > Referral > Organic Search > Direct,0.0,2.0,0
+Organic Search > Direct > Referral > Organic Search > Direct > Direct,0.0,1.0,0
+Organic Search > Direct > Referral > Organic Search > Referral,0.0,1.0,0
+Organic Search > Direct > Referral > Organic Search > Referral > Direct,1.0,0.0,0
+Organic Search > Direct > Referral > Organic Search > Referral > Direct > Direct,0.0,1.0,0
+Organic Search > Direct > Referral > Organic Search > Referral > Direct > Direct > Direct,0.0,1.0,0
+Organic Search > Direct > Referral > Organic Search > Referral > Direct > Direct > Direct > Organic Search,0.0,1.0,0
+Organic Search > Direct > Referral > Organic Search > Referral > Direct > Direct > Direct > Organic Search > Referral,0.0,1.0,0
+Organic Search > Direct > Referral > Organic Search > Referral > Direct > Direct > Direct > Organic Search > Referral > Direct,0.0,1.0,0
+Organic Search > Direct > Social,0.0,5.0,0
+Organic Search > Direct > Social > Direct,0.0,1.0,0
+Organic Search > Direct > Social > Direct > Direct,0.0,1.0,0
+Organic Search > Direct > Social > Paid Search,0.0,1.0,0
+Organic Search > Display,1.0,26.0,0
+Organic Search > Display > Direct,0.0,4.0,0
+Organic Search > Display > Direct > Display,0.0,3.0,0
+Organic Search > Display > Direct > Display > Direct,0.0,2.0,0
+Organic Search > Display > Direct > Display > Direct > Direct,0.0,1.0,0
+Organic Search > Display > Direct > Display > Direct > Direct > Direct,0.0,1.0,0
+Organic Search > Display > Direct > Display > Direct > Direct > Direct > Direct,0.0,1.0,0
+Organic Search > Display > Direct > Display > Direct > Direct > Direct > Direct > Direct,0.0,1.0,0
+Organic Search > Display > Direct > Display > Direct > Direct > Direct > Direct > Direct > Direct,0.0,1.0,0
+Organic Search > Display > Direct > Display > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,1.0,0
+Organic Search > Display > Display,0.0,6.0,0
+Organic Search > Display > Display > Direct,0.0,1.0,0
+Organic Search > Display > Display > Direct > Direct,0.0,1.0,0
+Organic Search > Display > Display > Direct > Direct > Direct,0.0,1.0,0
+Organic Search > Organic Search,0.0,268.0,0
+Organic Search > Organic Search > Direct,0.0,13.0,0
+Organic Search > Organic Search > Direct > Direct,0.0,1.0,0
+Organic Search > Organic Search > Direct > Direct > Direct,0.0,1.0,0
+Organic Search > Organic Search > Direct > Display,0.0,1.0,0
+Organic Search > Organic Search > Direct > Organic Search,0.0,4.0,0
+Organic Search > Organic Search > Direct > Organic Search > Direct,0.0,2.0,0
+Organic Search > Organic Search > Direct > Organic Search > Direct > Organic Search,0.0,1.0,0
+Organic Search > Organic Search > Direct > Organic Search > Direct > Organic Search > Organic Search,0.0,1.0,0
+Organic Search > Organic Search > Direct > Organic Search > Direct > Organic Search > Organic Search > Organic Search,0.0,1.0,0
+Organic Search > Organic Search > Direct > Organic Search > Direct > Organic Search > Organic Search > Organic Search > Direct,0.0,1.0,0
+Organic Search > Organic Search > Direct > Organic Search > Direct > Organic Search > Organic Search > Organic Search > Direct > Organic Search,0.0,1.0,0
+Organic Search > Organic Search > Direct > Organic Search > Direct > Organic Search > Organic Search > Organic Search > Direct > Organic Search > Organic Search,0.0,1.0,0
+Organic Search > Organic Search > Direct > Organic Search > Direct > Organic Search > Organic Search > Organic Search > Direct > Organic Search > Organic Search > Organic Search,0.0,1.0,0
+Organic Search > Organic Search > Direct > Organic Search > Organic Search,0.0,2.0,0
+Organic Search > Organic Search > Direct > Paid Search,0.0,1.0,0
+Organic Search > Organic Search > Display,0.0,1.0,0
+Organic Search > Organic Search > Organic Search,0.0,79.0,0
+Organic Search > Organic Search > Organic Search > Direct,0.0,2.0,0
+Organic Search > Organic Search > Organic Search > Direct > Referral,0.0,1.0,0
+Organic Search > Organic Search > Organic Search > Organic Search,0.0,54.0,0
+Organic Search > Organic Search > Organic Search > Organic Search > Direct,0.0,2.0,0
+Organic Search > Organic Search > Organic Search > Organic Search > Organic Search,0.0,40.0,0
+Organic Search > Organic Search > Organic Search > Organic Search > Organic Search > Direct,0.0,1.0,0
+Organic Search > Organic Search > Organic Search > Organic Search > Organic Search > Organic Search,1.0,12.0,0
+Organic Search > Organic Search > Organic Search > Organic Search > Organic Search > Organic Search > Organic Search,0.0,2.0,0
+Organic Search > Organic Search > Organic Search > Organic Search > Organic Search > Referral,0.0,2.0,0
+Organic Search > Organic Search > Referral,0.0,4.0,0
+Organic Search > Organic Search > Referral > Organic Search,0.0,1.0,0
+Organic Search > Organic Search > Social,0.0,1.0,0
+Organic Search > Paid Search,1.0,85.0,0
+Organic Search > Paid Search > Direct,0.0,6.0,0
+Organic Search > Paid Search > Direct > Direct,0.0,2.0,0
+Organic Search > Paid Search > Direct > Direct > Organic Search,0.0,1.0,0
+Organic Search > Paid Search > Direct > Paid Search,0.0,1.0,0
+Organic Search > Paid Search > Organic Search,0.0,14.0,0
+Organic Search > Paid Search > Organic Search > Direct,0.0,6.0,0
+Organic Search > Paid Search > Organic Search > Direct > Direct,0.0,2.0,0
+Organic Search > Paid Search > Organic Search > Direct > Direct > Direct,0.0,1.0,0
+Organic Search > Paid Search > Organic Search > Paid Search,0.0,1.0,0
+Organic Search > Paid Search > Organic Search > Paid Search > Paid Search,0.0,1.0,0
+Organic Search > Paid Search > Paid Search,1.0,7.0,0
+Organic Search > Paid Search > Paid Search > Direct,0.0,1.0,0
+Organic Search > Paid Search > Paid Search > Direct > Direct,0.0,1.0,0
+Organic Search > Paid Search > Paid Search > Paid Search,1.0,2.0,0
+Organic Search > Paid Search > Paid Search > Paid Search > Direct,0.0,1.0,0
+Organic Search > Paid Search > Paid Search > Paid Search > Organic Search,0.0,1.0,0
+Organic Search > Paid Search > Social,0.0,1.0,0
+Organic Search > Paid Search > Social > Display,0.0,1.0,0
+Organic Search > Referral,6.0,154.0,0
+Organic Search > Referral > Direct,2.0,19.0,0
+Organic Search > Referral > Direct > Direct,0.0,5.0,0
+Organic Search > Referral > Direct > Direct > Organic Search,0.0,2.0,0
+Organic Search > Referral > Direct > Direct > Organic Search > Referral,0.0,1.0,0
+Organic Search > Referral > Direct > Direct > Organic Search > Referral > Direct,0.0,1.0,0
+Organic Search > Referral > Direct > Direct > Organic Search > Referral > Direct > Direct,0.0,1.0,0
+Organic Search > Referral > Organic Search,0.0,18.0,0
+Organic Search > Referral > Organic Search > Direct,0.0,6.0,0
+Organic Search > Referral > Organic Search > Direct > Direct,0.0,2.0,0
+Organic Search > Referral > Organic Search > Direct > Direct > Direct,0.0,1.0,0
+Organic Search > Referral > Organic Search > Direct > Organic Search,0.0,1.0,0
+Organic Search > Referral > Organic Search > Referral,0.0,3.0,0
+Organic Search > Referral > Organic Search > Referral > Direct,0.0,1.0,0
+Organic Search > Referral > Organic Search > Referral > Direct > Direct,0.0,1.0,0
+Organic Search > Referral > Organic Search > Referral > Organic Search,0.0,2.0,0
+Organic Search > Referral > Organic Search > Referral > Organic Search > Direct,0.0,1.0,0
+Organic Search > Referral > Referral,0.0,1.0,0
+Organic Search > Referral > Referral > Direct,0.0,1.0,0
+Organic Search > Referral > Referral > Direct > Direct,0.0,1.0,0
+Organic Search > Referral > Social,0.0,1.0,0
+Organic Search > Social,0.0,41.0,0
+Organic Search > Social > Direct,0.0,3.0,0
+Organic Search > Social > Direct > Direct,0.0,1.0,0
+Organic Search > Social > Direct > Organic Search,0.0,1.0,0
+Organic Search > Social > Direct > Organic Search > Direct,0.0,1.0,0
+Organic Search > Social > Organic Search,0.0,5.0,0
+Organic Search > Social > Organic Search > Direct,0.0,1.0,0
+Organic Search > Social > Organic Search > Direct > Direct,0.0,1.0,0
+Organic Search > Social > Organic Search > Direct > Direct > Direct,0.0,1.0,0
+Organic Search > Social > Organic Search > Direct > Direct > Direct > Direct,0.0,1.0,0
+Organic Search > Social > Organic Search > Direct > Direct > Direct > Direct > Direct,0.0,1.0,0
+Organic Search > Social > Organic Search > Direct > Direct > Direct > Direct > Direct > Direct,0.0,1.0,0
+Paid Search,18.0,1227.0,0
+Paid Search > Direct,4.0,124.0,0
+Paid Search > Direct > Direct,0.0,35.0,0
+Paid Search > Direct > Direct > Direct,1.0,15.0,0
+Paid Search > Direct > Direct > Direct > Direct,0.0,8.0,0
+Paid Search > Direct > Direct > Direct > Direct > Direct,0.0,5.0,0
+Paid Search > Direct > Direct > Direct > Direct > Direct > Direct,0.0,4.0,0
+Paid Search > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,3.0,0
+Paid Search > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,3.0,0
+Paid Search > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,2.0,0
+Paid Search > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,1.0,0
+Paid Search > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,1.0,0
+Paid Search > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,1.0,0
+Paid Search > Direct > Direct > Direct > Direct > Direct > Organic Search,0.0,1.0,0
+Paid Search > Direct > Direct > Direct > Direct > Direct > Organic Search > Paid Search,0.0,1.0,0
+Paid Search > Direct > Direct > Direct > Direct > Direct > Organic Search > Paid Search > Paid Search,0.0,1.0,0
+Paid Search > Direct > Direct > Direct > Direct > Direct > Organic Search > Paid Search > Paid Search > Direct,0.0,1.0,0
+Paid Search > Direct > Direct > Direct > Direct > Direct > Organic Search > Paid Search > Paid Search > Direct > Direct,1.0,0.0,0
+Paid Search > Direct > Direct > Organic Search,1.0,0.0,0
+Paid Search > Direct > Direct > Organic Search > Direct,0.0,1.0,0
+Paid Search > Direct > Organic Search,0.0,2.0,0
+Paid Search > Direct > Paid Search,0.0,3.0,0
+Paid Search > Direct > Paid Search > Paid Search,0.0,1.0,0
+Paid Search > Display,0.0,10.0,0
+Paid Search > Display > Direct,0.0,4.0,0
+Paid Search > Display > Direct > Direct,0.0,1.0,0
+Paid Search > Display > Direct > Display,0.0,1.0,0
+Paid Search > Organic Search,2.0,103.0,0
+Paid Search > Organic Search > Direct,0.0,11.0,0
+Paid Search > Organic Search > Direct > Direct,0.0,4.0,0
+Paid Search > Organic Search > Direct > Direct > Direct,0.0,1.0,0
+Paid Search > Organic Search > Paid Search,0.0,4.0,0
+Paid Search > Organic Search > Paid Search > Paid Search,0.0,1.0,0
+Paid Search > Organic Search > Referral,0.0,1.0,0
+Paid Search > Organic Search > Referral > Organic Search,0.0,1.0,0
+Paid Search > Paid Search,3.0,51.0,0
+Paid Search > Paid Search > Direct,0.0,5.0,0
+Paid Search > Paid Search > Direct > Direct,1.0,1.0,0
+Paid Search > Paid Search > Direct > Paid Search,1.0,2.0,0
+Paid Search > Paid Search > Direct > Paid Search > Direct,0.0,1.0,0
+Paid Search > Paid Search > Direct > Paid Search > Direct > Paid Search,0.0,1.0,0
+Paid Search > Paid Search > Direct > Paid Search > Direct > Paid Search > Paid Search,0.0,1.0,0
+Paid Search > Paid Search > Paid Search,0.0,12.0,0
+Paid Search > Paid Search > Paid Search > Direct,0.0,2.0,0
+Paid Search > Paid Search > Paid Search > Direct > Direct,0.0,2.0,0
+Paid Search > Paid Search > Paid Search > Direct > Direct > Direct,0.0,1.0,0
+Paid Search > Paid Search > Paid Search > Direct > Direct > Direct > Direct,0.0,1.0,0
+Paid Search > Paid Search > Paid Search > Paid Search,0.0,2.0,0
+Paid Search > Paid Search > Paid Search > Paid Search > Direct,0.0,1.0,0
+Paid Search > Paid Search > Paid Search > Paid Search > Paid Search,0.0,1.0,0
+Paid Search > Referral,0.0,9.0,0
+Paid Search > Referral > Direct,0.0,1.0,0
+Paid Search > Social,0.0,1.0,0
+Referral,135.0,4741.0,0
+Referral > Affiliates,0.0,5.0,0
+Referral > Affiliates > Direct,0.0,4.0,0
+Referral > Affiliates > Direct > Direct,0.0,2.0,0
+Referral > Affiliates > Direct > Referral,0.0,1.0,0
+Referral > Affiliates > Direct > Referral > Direct,0.0,1.0,0
+Referral > Affiliates > Direct > Referral > Direct > Direct,0.0,1.0,0
+Referral > Affiliates > Direct > Referral > Direct > Direct > Organic Search,0.0,1.0,0
+Referral > Affiliates > Direct > Referral > Direct > Direct > Organic Search > Referral,0.0,1.0,0
+Referral > Affiliates > Direct > Referral > Direct > Direct > Organic Search > Referral > Organic Search,0.0,1.0,0
+Referral > Affiliates > Direct > Referral > Direct > Direct > Organic Search > Referral > Organic Search > Referral,0.0,1.0,0
+Referral > Affiliates > Direct > Referral > Direct > Direct > Organic Search > Referral > Organic Search > Referral > Organic Search,0.0,1.0,0
+Referral > Affiliates > Direct > Referral > Direct > Direct > Organic Search > Referral > Organic Search > Referral > Organic Search > Referral,0.0,1.0,0
+Referral > Direct,67.0,750.0,0
+Referral > Direct > Affiliates,0.0,1.0,0
+Referral > Direct > Affiliates > Referral,0.0,1.0,0
+Referral > Direct > Direct,27.0,229.0,0
+Referral > Direct > Direct > Direct,6.0,104.0,0
+Referral > Direct > Direct > Direct > Direct,6.0,40.0,0
+Referral > Direct > Direct > Direct > Direct > Direct,1.0,26.0,0
+Referral > Direct > Direct > Direct > Direct > Direct > Direct,0.0,11.0,0
+Referral > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,7.0,0
+Referral > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,1.0,0
+Referral > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,1.0,0
+Referral > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,1.0,0.0,0
+Referral > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,1.0,0
+Referral > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,1.0,0
+Referral > Direct > Direct > Direct > Direct > Direct > Organic Search,0.0,1.0,0
+Referral > Direct > Direct > Direct > Direct > Referral,0.0,1.0,0
+Referral > Direct > Direct > Direct > Direct > Referral > Direct,1.0,0.0,0
+Referral > Direct > Direct > Direct > Direct > Referral > Direct > Direct,0.0,1.0,0
+Referral > Direct > Direct > Direct > Display,0.0,1.0,0
+Referral > Direct > Direct > Direct > Display > Referral,0.0,1.0,0
+Referral > Direct > Direct > Display,0.0,1.0,0
+Referral > Direct > Direct > Organic Search,0.0,5.0,0
+Referral > Direct > Direct > Organic Search > Referral,0.0,1.0,0
+Referral > Direct > Direct > Paid Search,0.0,1.0,0
+Referral > Direct > Direct > Paid Search > Referral,0.0,1.0,0
+Referral > Direct > Direct > Paid Search > Referral > Direct,0.0,1.0,0
+Referral > Direct > Direct > Paid Search > Referral > Direct > Direct,0.0,1.0,0
+Referral > Direct > Direct > Paid Search > Referral > Direct > Direct > Direct,0.0,1.0,0
+Referral > Direct > Direct > Referral,0.0,1.0,0
+Referral > Direct > Direct > Referral > Direct,0.0,1.0,0
+Referral > Direct > Direct > Referral > Direct > Referral,1.0,0.0,0
+Referral > Direct > Direct > Referral > Direct > Referral > Direct,0.0,1.0,0
+Referral > Direct > Direct > Referral > Direct > Referral > Direct > Direct,0.0,1.0,0
+Referral > Direct > Direct > Referral > Direct > Referral > Direct > Direct > Direct,0.0,1.0,0
+Referral > Direct > Direct > Social,0.0,1.0,0
+Referral > Direct > Display,0.0,2.0,0
+Referral > Direct > Organic Search,0.0,5.0,0
+Referral > Direct > Organic Search > Direct,0.0,1.0,0
+Referral > Direct > Organic Search > Referral,1.0,0.0,0
+Referral > Direct > Referral,0.0,7.0,0
+Referral > Direct > Referral > Direct,1.0,1.0,0
+Referral > Direct > Referral > Referral,0.0,1.0,0
+Referral > Direct > Social,0.0,4.0,0
+Referral > Direct > Social > Social,0.0,2.0,0
+Referral > Direct > Social > Social > Referral,0.0,1.0,0
+Referral > Direct > Social > Social > Referral > Direct,0.0,1.0,0
+Referral > Direct > Social > Social > Referral > Direct > Direct,0.0,1.0,0
+Referral > Display,0.0,8.0,0
+Referral > Display > Direct,0.0,3.0,0
+Referral > Display > Direct > Display,0.0,1.0,0
+Referral > Display > Direct > Display > Direct,0.0,1.0,0
+Referral > Organic Search,3.0,77.0,0
+Referral > Organic Search > Direct,0.0,12.0,0
+Referral > Organic Search > Direct > Direct,0.0,5.0,0
+Referral > Organic Search > Direct > Direct > Direct,1.0,1.0,0
+Referral > Organic Search > Direct > Direct > Referral,0.0,2.0,0
+Referral > Organic Search > Direct > Referral,0.0,1.0,0
+Referral > Organic Search > Display,0.0,2.0,0
+Referral > Organic Search > Display > Organic Search,0.0,1.0,0
+Referral > Organic Search > Display > Organic Search > Referral,0.0,1.0,0
+Referral > Organic Search > Organic Search,0.0,5.0,0
+Referral > Organic Search > Organic Search > Organic Search,0.0,4.0,0
+Referral > Organic Search > Organic Search > Organic Search > Organic Search,0.0,4.0,0
+Referral > Organic Search > Organic Search > Organic Search > Organic Search > Organic Search,0.0,2.0,0
+Referral > Organic Search > Organic Search > Organic Search > Organic Search > Referral,0.0,1.0,0
+Referral > Organic Search > Organic Search > Organic Search > Organic Search > Referral > Direct,0.0,1.0,0
+Referral > Organic Search > Organic Search > Organic Search > Organic Search > Referral > Direct > Direct,0.0,1.0,0
+Referral > Organic Search > Organic Search > Organic Search > Organic Search > Referral > Direct > Direct > Organic Search,0.0,1.0,0
+Referral > Organic Search > Referral,0.0,14.0,0
+Referral > Organic Search > Referral > Direct,0.0,3.0,0
+Referral > Organic Search > Referral > Direct > Direct,1.0,0.0,0
+Referral > Organic Search > Referral > Organic Search,0.0,4.0,0
+Referral > Organic Search > Referral > Organic Search > Referral,0.0,1.0,0
+Referral > Organic Search > Referral > Organic Search > Referral > Organic Search,0.0,1.0,0
+Referral > Paid Search,0.0,2.0,0
+Referral > Paid Search > Organic Search,0.0,1.0,0
+Referral > Referral,1.0,32.0,0
+Referral > Referral > (Other),0.0,1.0,0
+Referral > Referral > (Other) > Referral,0.0,1.0,0
+Referral > Referral > (Other) > Referral > Referral,0.0,1.0,0
+Referral > Referral > (Other) > Referral > Referral > (Other),0.0,1.0,0
+Referral > Referral > (Other) > Referral > Referral > (Other) > Referral,0.0,1.0,0
+Referral > Referral > (Other) > Referral > Referral > (Other) > Referral > Referral,0.0,1.0,0
+Referral > Referral > (Other) > Referral > Referral > (Other) > Referral > Referral > Referral,0.0,1.0,0
+Referral > Referral > (Other) > Referral > Referral > (Other) > Referral > Referral > Referral > Referral,0.0,1.0,0
+Referral > Referral > (Other) > Referral > Referral > (Other) > Referral > Referral > Referral > Referral > Referral,0.0,1.0,0
+Referral > Referral > (Other) > Referral > Referral > (Other) > Referral > Referral > Referral > Referral > Referral > Referral,0.0,1.0,0
+Referral > Referral > (Other) > Referral > Referral > (Other) > Referral > Referral > Referral > Referral > Referral > Referral > Direct,0.0,1.0,0
+Referral > Referral > (Other) > Referral > Referral > (Other) > Referral > Referral > Referral > Referral > Referral > Referral > Direct > Referral,0.0,1.0,0
+Referral > Referral > (Other) > Referral > Referral > (Other) > Referral > Referral > Referral > Referral > Referral > Referral > Direct > Referral > Referral,0.0,1.0,0
+Referral > Referral > (Other) > Referral > Referral > (Other) > Referral > Referral > Referral > Referral > Referral > Referral > Direct > Referral > Referral > Referral,0.0,1.0,0
+Referral > Referral > (Other) > Referral > Referral > (Other) > Referral > Referral > Referral > Referral > Referral > Referral > Direct > Referral > Referral > Referral > Referral,0.0,1.0,0
+Referral > Referral > (Other) > Referral > Referral > (Other) > Referral > Referral > Referral > Referral > Referral > Referral > Direct > Referral > Referral > Referral > Referral > Referral,0.0,1.0,0
+Referral > Referral > Direct,0.0,3.0,0
+Referral > Referral > Direct > Direct,0.0,2.0,0
+Referral > Referral > Referral,0.0,3.0,0
+Referral > Referral > Referral > Referral,0.0,2.0,0
+Referral > Referral > Referral > Referral > Referral,0.0,1.0,0
+Referral > Referral > Referral > Referral > Referral > Direct,0.0,1.0,0
+Referral > Social,0.0,13.0,0
+Referral > Social > Direct,0.0,1.0,0
+Referral > Social > Direct > Direct,0.0,1.0,0
+Referral > Social > Direct > Direct > Direct,0.0,1.0,0
+Referral > Social > Organic Search,0.0,1.0,0
+Referral > Social > Referral,0.0,1.0,0
+Referral > Social > Social,0.0,1.0,0
+Referral > Social > Social > Social,0.0,1.0,0
+Social,15.0,2990.0,0
+Social > Direct,6.0,121.0,0
+Social > Direct > Direct,0.0,22.0,0
+Social > Direct > Direct > Direct,1.0,8.0,0
+Social > Direct > Direct > Direct > Direct,0.0,5.0,0
+Social > Direct > Direct > Direct > Direct > Direct,0.0,2.0,0
+Social > Direct > Direct > Direct > Direct > Direct > Direct,0.0,1.0,0
+Social > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,1.0,0
+Social > Direct > Direct > Direct > Direct > Direct > Direct > Direct > Direct,0.0,1.0,0
+Social > Direct > Direct > Organic Search,0.0,2.0,0
+Social > Direct > Organic Search,0.0,4.0,0
+Social > Direct > Paid Search,0.0,1.0,0
+Social > Direct > Referral,0.0,1.0,0
+Social > Direct > Referral > Paid Search,0.0,1.0,0
+Social > Direct > Referral > Paid Search > Organic Search,0.0,1.0,0
+Social > Direct > Referral > Paid Search > Organic Search > Direct,0.0,1.0,0
+Social > Display,0.0,1.0,0
+Social > Organic Search,0.0,23.0,0
+Social > Organic Search > Direct,0.0,1.0,0
+Social > Organic Search > Direct > Direct,0.0,1.0,0
+Social > Organic Search > Direct > Direct > Direct,0.0,1.0,0
+Social > Organic Search > Direct > Direct > Direct > Direct,0.0,1.0,0
+Social > Organic Search > Organic Search,0.0,1.0,0
+Social > Paid Search,0.0,1.0,0
+Social > Paid Search > Social,0.0,1.0,0
+Social > Referral,0.0,19.0,0
+Social > Referral > Direct,0.0,1.0,0
+Social > Referral > Social,0.0,7.0,0
+Social > Referral > Social > Social,0.0,2.0,0
+Social > Social,0.0,22.0,0
+Social > Social > Referral,0.0,1.0,0
+Social > Social > Social,0.0,3.0,0
